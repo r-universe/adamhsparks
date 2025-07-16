@@ -8,3 +8,6 @@
 [submodule "fifo"]
 	path = fifo
 	url = https://codeberg.org/adamhsparks/fifo
+[submodule "misc.debris"]
+	path = misc.debris
+	url = https://codeberg.org/adamhsparks/misc.debris
